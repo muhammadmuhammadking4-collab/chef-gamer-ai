@@ -3,7 +3,7 @@ from groq import Groq
 
 st.title("🌍 Farm AI")
 st.caption("Ask me absolutely anything!")
-
+jj
 # Connect to Groq using the Secret Safe
 client = Groq(api_key=st.secrets["GROQ_API_KEY"])
 
