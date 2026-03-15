@@ -8,7 +8,7 @@ st.caption("Ask me absolutely anything!")
 client = Groq(api_key=st.secrets["GROQ_API_KEY"])
 
 # The Open Brain Instruction
-system_prompt = "You are a highly intelligent, friendly, and helpful AI assistant. Answer any question the user asks clearly and accurately."
+system_prompt = "You are a highly intelligent, friendly, and helpful AI assistant. Answer only bace on farm and agriculture user asks clearly and accurately."
 
 if "messages" not in st.session_state:
     st.session_state.messages = [{"role": "system", "content": system_prompt}]
