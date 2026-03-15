@@ -1,7 +1,7 @@
 import streamlit as st
 from groq import Groq
 
-st.title("Generalal Knowledge Geography AI")
+st.title("Generalal Knowledge BIOLOGY AI")
 st.caption("Ask me absolutely anything!")
 
 # Connect to Groq using the Secret Safe
