@@ -1,14 +1,14 @@
 import streamlit as st
 from groq import Groq
 
-st.title("🌍 General Knowledge AI")
+st.title("🌍 Generalally Knowledge AI")
 st.caption("Ask me absolutely anything!")
 
 # Connect to Groq using the Secret Safe
 client = Groq(api_key=st.secrets["GROQ_API_KEY"])
 
 # The Open Brain Instruction
-system_prompt = "You are a highly intelligent, friendly, and helpful AI assistant. Answer any question the user asks clearly and accurately."
+system_prompt = "You are a highly intelligent, friendly, and helpful AI assistant. Answer only  question related to geoagraphy ONLY when  the user asks anser it clearly and accurately."
 
 if "messages" not in st.session_state:
     st.session_state.messages = [{"role": "system", "content": system_prompt}]
