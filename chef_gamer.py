@@ -2,7 +2,7 @@ import streamlit as st
 from groq import Groq
 
 st.title("🌍 Farm AI")
-st.caption("Ask me absolutely anything!")
+st.caption("Ask me absolutely about Farm")
 # Connect to Groq using the Secret Safe
 client = Groq(api_key=st.secrets["GROQ_API_KEY"])
 
