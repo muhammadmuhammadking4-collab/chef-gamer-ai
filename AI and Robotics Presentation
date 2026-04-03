@@ -1,36 +1,52 @@
-BT-Scout:
+BT-Scout Roboot:
 
 1. Sajjad: The "Why" & The Big Picture
 
-"Millions of years ago, the dinosaurs went extinct because they could not adapt to sudden threats. Human civilization has only survived because we use technology to protect ourselves and adapt to our environment. We designed this robot to be our eyes and ears in places where humans cannot easily go. Our problem statement was simple: How do we build a machine that can explore, protect, and report back, ensuring human safety and continuing our progress?"
+"Millions of years ago, the dinosaurs went extinct because they could not adapt to sudden threats. 
+Human civilization has only survived because we use technology to protect ourselves and adapt to our environment. 
+We designed this robot to be our eyes and ears in places where humans cannot easily go. 
+Our problem statement was simple: How do we build a machine that can explore, protect, and report back, ensuring human safety and continuing our progress?"
 
 
 
 2. Muhammad: Real-World Benefits
 
-"This robot has three major benefits. In **Research**, it can be sent into dangerous environments—like collapsed buildings or toxic areas—to safely gather information. In the Medical field, it can be used to deliver medicine or food to highly infectious patients in hospitals without risking the lives of nurses. In **Security**, it can patrol perimeters and stream live video back to guards, acting as an unblinking watchman."
+"This robot has three major benefits. In 
+**Research**, it can be sent into dangerous environments—like collapsed buildings or toxic areas—to safely gather information. 
+In the Medical field, it can be used to deliver medicine or food to highly infectious patients in hospitals without risking the lives of nurses. 
+In **Security**, it can patrol perimeters and stream live video back to guards, acting as an unblinking watchman."
 
 
 
 3. Almustapha: The Economic Impact
 
-"This project is not just educational; it is a business opportunity. For **our country**, manufacturing robots locally means we stop importing expensive foreign security tech, keeping wealth inside Nigeria. For **BT-HUB**, we can mass-produce these as security bots or educational kits to sell to schools and businesses. For **ourselves**, we are building the exact high-income tech skills that the global market is paying top dollar for."
+"This project is not just educational; it is a business opportunity. For 
+**our country**, manufacturing robots locally means we stop importing expensive foreign security tech, keeping wealth inside Nigeria. For 
+**BT-HUB**, we can mass-produce these as security bots or educational kits to sell to schools and businesses. For 
+**ourselves**, we are building the exact high-income tech skills that the global market is paying top dollar for."
 
 
 
 4. Hafsat: Manual Mode (The Drone Experience)
 
-"Let me explain our Manual Mode. We built a custom web application that turns any smartphone into a remote control. Through our app, we get a live, high-definition video feed of exactly what the robot sees. With the touch of a button, a human operator can safely drive the robot through tight spaces or dangerous areas from a safe distance, just like flying a drone."
+"Let me explain our Manual Mode. We built a custom web application that turns any smartphone into a remote control. 
+Through our app, we get a live, high-definition video feed of exactly what the robot sees. 
+With the touch of a button, a human operator can safely drive the robot through tight spaces or dangerous areas from a safe distance, just like flying a drone."
 
 
 
 5. Abdulrahman: Autonomous Mode (The Smart Brain)
 
-"Sometimes, the robot needs to think for itself, which is why we built Autonomous Mode. Using an ultrasonic sensor, the robot sends out sound waves to 'feel' its environment, much like a bat uses echolocation. If it senses a wall, a person, or an obstacle in its path, its brain automatically hits the brakes, calculates a new route, turns, and continues moving—all without any human help."
+"Sometimes, the robot needs to think for itself, which is why we built Autonomous Mode. 
+Using an ultrasonic sensor, the robot sends out sound waves to 'feel' its environment, much like a bat uses echolocation. 
+If it senses a wall, a person, or an obstacle in its path, its brain automatically hits the brakes, calculates a new route, turns, and continues moving—all without any human help."
 
 
 
 6. Usman: What We Used & The Future
 
-"To build this, we gave it a brain (a Raspberry Pi computer), eyes (an HD camera), a shield (an ultrasonic sensor), and legs (motors and wheels). But this is just Version 1. Our future plan is to make it self-sustaining by adding solar panels so it never needs to be plugged in. We will add storage compartments for safe deliveries, and we plan to upgrade its brain so it can automatically send sensitive alerts or text messages to the authorities if it spots a threat." 
+"To build this, we gave it a brain (a Raspberry Pi computer), eyes (an HD camera), a shield (an ultrasonic sensor), and legs (motors and wheels). 
+But this is just Version 1. Our future plan is to make it self-sustaining by adding solar panels so it never needs to be plugged in. 
+We will add storage compartments for safe deliveries, and we plan to upgrade its brain so it can 
+automatically send sensitive alerts or text messages to the authorities if it spots a threat." 
 
